@@ -6,7 +6,6 @@ Repositório criado para o desafio de programação da Kodland.
 
 
 
-
 ## Requisitos
 - Python 3.13 >
 - Pygame Zero
